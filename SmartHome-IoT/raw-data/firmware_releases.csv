@@ -1,0 +1,8 @@
+firmware_id,version_string,release_date,min_hardware_req,is_critical_patch
+FIRM-v1,v1.0.4,2024-11-01,Rev-A,false
+FIRM-v2,v2.1.0,2025-02-15,Rev-B,true
+FIRM-v3,v3.0.1,2025-05-20,Rev-B,true
+FIRM-v4,v3.1.0,2025-08-01,Rev-C,false
+FIRM-v5,v4.0.0,2025-12-15,Rev-C,true
+FIRM-v6,v4.0.1,2026-03-22,Rev-C,false
+FIRM-v7,v4.1.0,2026-06-01,Rev-D,true

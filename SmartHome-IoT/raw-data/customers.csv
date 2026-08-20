@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,billing_tier,signup_date,account_status
+CUST-001,John,Smith,john.smith@gmail.com,Premium,2025-01-15 08:30:00,Active
+CUST-002,SARAH,CONNOR,sconnor@cyberdyne.co.uk,Basic,2025-02-20 14:15:22,Active
+CUST-003,David,Lee,dlee_analytics@yahoo.co.uk,Free,2025-03-05 11:02:10,Suspended
+CUST-004,Elena,Rostova,elena.r@outlook.com,Premium,2025-06-12 17:45:00,Active
+CUST-005,Marcus,Vance,mvance@techcorp.io,Basic,24/07/2025 09:00,Cancelled
+CUST-006,Fiona,Gallagher,fiona.g@manchester.res,Free,2025-08-11 21:10:05,Active
+CUST-007,Oliver,Twist,otwist@london-charity.org,Basic,2025-09-01 06:30:00,Active
+CUST-008,AMY,POND,amy.pond@tardis.net,Premium,2025-09-15 13:12:59,Active
+CUST-009,Rory,Williams,rory.w@nhs.uk,Free,2025-10-02 10:00:00,Active
+CUST-010,Clara,Oswald,coswald@coalhill.edu.uk,Basic,2025-11-20 16:40:22,Suspended
+CUST-011,Alistair,Gordon,lethbridge@unit.mod.uk,Premium,2025-12-01 08:00:00,Active
+CUST-012,James,Bond,007@mi6.gov.uk,Premium,2026-01-01 00:07:00,Active
+CUST-013,Sherlock,Holmes,sholmes@221b.co.uk,Basic,2026-01-10 02:45:15,Active
+CUST-014,John,Watson,jwatson@nhs.uk,Free,2026-01-11 09:15:00,Active
+CUST-015,Rose,Tyler,rose.tyler@powell-estate.co.uk,Free,15/02/2026 18:22,Active
+CUST-016,Martha,Jones,mjones@royalhope.nhs.uk,Premium,2026-03-01 07:11:45,Active
+CUST-017,Donna,Noble,donna.n@chiswick.net,Basic,2026-04-18 11:55:00,Active
+CUST-018,Wilfred,Mott,wilf.mott@astronomy.org,Free,2026-05-01 23:04:10,Active
+CUST-019,Jack,Harkness,jharkness@torchwood.org,Premium,1905-01-01 00:00:00,Active
+CUST-020,River,Song,melody.pond@stormcage.gal,Premium,2026-06-30 23:59:59,Active

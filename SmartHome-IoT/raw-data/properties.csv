@@ -1,0 +1,21 @@
+property_id,customer_id,property_name,property_type,street_address,city,postal_code
+PROP-101,CUST-001,London Flat,Apartment,Flat 4 22 Park Lane,London,W1K 1BE
+PROP-102,CUST-001,Wales Cottage,Single-Family House,12 High Street,Tenby,SA70 7HD
+PROP-201,CUST-002,Safe House,Townhouse,45 Moorland Road,Manchester,M20 6BB
+PROP-301,CUST-003,City Condo,Apartment,Studio 9 Corn Street,Bristol,BS1 1JQ
+PROP-401,CUST-004,HQ Offices,Commercial Office,100 Innovation Way,Cambridge,CB4 0WG
+PROP-501,CUST-006,Family Terrace,Townhouse,22 Chatsworth Road,Manchester,M11 4SP
+PROP-601,CUST-007,Workhouse Loft,Apartment,33 Saffron Hill,London,EC1N 8QL
+PROP-701,CUST-008,Leadworth House,Single-Family House,2 Radnor Road,Gloucester,GL1 3EX
+PROP-801,CUST-011,UNIT Bunker,Commercial Office,Sublevel 3 Whitehall,London,SW1A2AA
+PROP-901,CUST-012,Skyfall Lodge,Single-Family House,Glen Etive,Glencoe,PH49 4JA
+PROP-902,CUST-012,London Townhouse,Townhouse,12 Queens Gate Mews,London,SW7 5QN
+PROP-1001,CUST-013,Baker St Rooms,Apartment,221B Baker Street,London,NW1 6XE
+PROP-1101,CUST-015,Powell Flat,Apartment,Block B Brandon Estate,London,SE109AA
+PROP-1201,CUST-016,Medical Practice,Commercial Office,88 Chiswick High Rd,London,W4 1SH
+PROP-1301,CUST-017,Chiswick Semi,Single-Family House,14 Classic Drive,London,W4 2D_
+PROP-1401,CUST-019,Cardiff Hub,Commercial Office,Plass Roald Dahl,Cardiff,CF10 5AN
+PROP-1501,CUST-020,University Office,Commercial Office,St Johns College,Oxford,OX1 3JP
+PROP-1601,CUST-005,Suburban Semi,Single-Family House,44 Bramhall Lane,Stockport,SK7 5AA
+PROP-1701,CUST-009,Terraced House,Townhouse,56 Church Road,Gloucester,GL2 5LL
+PROP-1801,CUST-014,Town House,Townhouse,15 Welbeck Street,London,W1G 9YT

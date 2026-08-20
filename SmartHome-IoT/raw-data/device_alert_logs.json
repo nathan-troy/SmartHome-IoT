@@ -1,0 +1,22 @@
+[
+  {"alert_id": "ALRT-001", "device_id": "DEV-904", "timestamp": "2026-08-19T06:12:00Z", "error_code": "ERR_CONNECTION_LOSS", "security_level": "Warning", "resolved_at": null},
+  {"alert_id": "ALRT-002", "device_id": "DEV-903", "timestamp": "2026-08-19T08:44:12Z", "error_code": "ERR_VOLTAGE_SPIKE", "security_level": "Critical", "resolved_at": "2026-08-19T09:15:00Z"},
+  {"alert_id": "ALRT-003", "device_id": "DEV-918", "timestamp": "2026-08-19T09:00:00Z", "error_code": "ERR_CONNECTION_LOSS", "security_level": "Warning", "resolved_at": null},
+  {"alert_id": "ALRT-004", "device_id": "DEV-905", "timestamp": "2026-08-19T10:16:00Z", "error_code": "ERR_SENSOR_MISCALIBRATION", "security_level": "Info", "resolved_at": "2026-08-19T10:45:00Z"},
+  {"alert_id": "ALRT-005", "device_id": "DEV-912", "timestamp": "2026-08-19T11:20:00Z", "error_code": "ERR_VOLTAGE_SPIKE", "security_level": "Critical", "resolved_at": "2026-08-19T11:55:00Z"},
+  {"alert_id": "ALRT-006", "device_id": "DEV-915", "timestamp": "2026-08-19T11:50:00Z", "error_code": "ERR_CONNECTION_LOSS", "security_level": "Warning", "resolved_at": "2026-08-19T12:05:00Z"},
+  {"alert_id": "ALRT-007", "device_id": "DEV-910", "timestamp": "2026-08-19T13:10:00Z", "error_code": "ERR_SENSOR_MISCALIBRATION", "security_level": "Info", "resolved_at": null},
+  {"alert_id": "ALRT-008", "device_id": "DEV-901", "timestamp": "2026-08-19T14:22:00Z", "error_code": "ERR_VOLTAGE_SPIKE", "security_level": "Warning", "resolved_at": "2026-08-19T14:30:00Z"},
+  {"alert_id": "ALRT-009", "device_id": "DEV-907", "timestamp": "2026-08-19T15:00:00Z", "error_code": "ERR_CONNECTION_LOSS", "security_level": "Warning", "resolved_at": "2026-08-19T15:10:00Z"},
+  {"alert_id": "ALRT-010", "device_id": "DEV-916", "timestamp": "2026-08-19T16:45:00Z", "error_code": "ERR_VOLTAGE_SPIKE", "security_level": "Critical", "resolved_at": null},
+  {"alert_id": "ALRT-011", "device_id": "DEV-902", "timestamp": "2026-08-19T17:05:00Z", "error_code": "ERR_CONNECTION_LOSS", "security_level": "Warning", "resolved_at": "2026-08-19T17:15:00Z"},
+  {"alert_id": "ALRT-012", "device_id": "DEV-911", "timestamp": "2026-08-19T17:30:00Z", "error_code": "ERR_SENSOR_MISCALIBRATION", "security_level": "Info", "resolved_at": "2026-08-19T18:00:00Z"},
+  {"alert_id": "ALRT-013", "device_id": "DEV-914", "timestamp": "2026-08-19T18:12:00Z", "error_code": "ERR_CONNECTION_LOSS", "security_level": "Warning", "resolved_at": null},
+  {"alert_id": "ALRT-014", "device_id": "DEV-906", "timestamp": "2026-08-19T19:00:00Z", "error_code": "ERR_VOLTAGE_SPIKE", "security_level": "Critical", "resolved_at": "2026-08-19T19:40:00Z"},
+  {"alert_id": "ALRT-015", "device_id": "DEV-909", "timestamp": "2026-08-19T19:25:00Z", "error_code": "ERR_CONNECTION_LOSS", "security_level": "Warning", "resolved_at": "2026-08-19T19:35:00Z"},
+  {"alert_id": "ALRT-016", "device_id": "DEV-913", "timestamp": "2026-08-19T20:02:00Z", "error_code": "ERR_SENSOR_MISCALIBRATION", "security_level": "Info", "resolved_at": "2026-08-19T20:30:00Z"},
+  {"alert_id": "ALRT-017", "device_id": "DEV-908", "timestamp": "2026-08-19T20:45:00Z", "error_code": "ERR_VOLTAGE_SPIKE", "security_level": "Critical", "resolved_at": null},
+  {"alert_id": "ALRT-018", "device_id": "DEV-917", "timestamp": "2026-08-19T21:15:00Z", "error_code": "ERR_CONNECTION_LOSS", "security_level": "Warning", "resolved_at": "2026-08-19T21:45:00Z"},
+  {"alert_id": "ALRT-019", "device_id": "DEV-919", "timestamp": "2026-08-19T22:00:00Z", "error_code": "ERR_SENSOR_MISCALIBRATION", "security_level": "Info", "resolved_at": "2026-08-19T22:20:00Z"},
+  {"alert_id": "ALRT-020", "device_id": "DEV-920", "timestamp": "2026-08-19T23:30:00Z", "error_code": "ERR_VOLTAGE_SPIKE", "security_level": "Critical", "resolved_at": "2026-08-19T23:55:00Z"}
+]
